@@ -1,0 +1,7 @@
+var nombre string // nombre erroneo
+var apellido string
+var edad int                  // nombre y tipo estaban invertidos
+apellido := 6             // nombre erróneo
+var licenciaDeConducir = true // no uso de CamelCase
+var estatura float32          // no uso de CamelCase, tipo erróneo
+cantidadDeHijos := 2
